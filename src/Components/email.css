@@ -1,0 +1,15 @@
+.contactDetails {
+  text-align: center;
+  margin-top: 80px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.contactDetails a {
+  color: #00bfff;
+  text-decoration: none;
+}
+
+.contactDetails a:hover {
+  text-decoration: underline;
+}
