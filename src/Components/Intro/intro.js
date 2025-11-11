@@ -1,9 +1,9 @@
-import React from 'react';
+
 import './intro.css';
 import imgBg from '../../Assets/Mypic.jpg';
 import { Link } from 'react-router-dom';
 import imgBtn from '../../Assets/hireme.png';
-import EmailForm from '../EmailForm';
+
 
 const Intro = () => {
   return (
